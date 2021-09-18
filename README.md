@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mo-eldahshoury
+- 👋 Hi, I’m mohamed el dahshoury 
 - 👀 I’m interested in Computer science 
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate 
