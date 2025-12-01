@@ -1,6 +1,6 @@
 # Mohammed Abdelrahman – Frontend Developer
 
-<img src="images/me.jpg" align="right" width="180"/>
+<img src="icons/me.jpg" align="right" width="180"/>
 
 Hello!  
 I'm **Mohammed Abdelrahman**, a passionate **Frontend Developer** focused on building fast, modern, and responsive user interfaces.  
@@ -48,8 +48,13 @@ I specialize in JavaScript technologies, especially React and state management t
 
 ## 🌍 Connect With Me
 
-[![GitHub](icons/github.png)](https://github.com/mo-eldahshoury)  
-[![LinkedIn](icons/linkedin.png)](https://linkedin.com/in/mo-eldahshoury)
+<a href="https://github.com/mo-eldahshoury">
+  <img src="icons/github.png" width="40"/>
+</a>
+
+<a href="https://linkedin.com/in/mo-eldahshoury">
+  <img src="icons/linkedin.png" width="40"/>
+</a>
 
 ---
 
@@ -57,4 +62,3 @@ I specialize in JavaScript technologies, especially React and state management t
 - Build a strong portfolio with real-world projects  
 - Contribute to open-source frontend tools  
 - Master advanced JavaScript & TypeScript concepts  
-
