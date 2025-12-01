@@ -1,7 +1,4 @@
 # Mohammed Abdelrahman – Frontend Developer
-
-<img src="icons/me.png" align="right" width="180"/>
-
 Hello!  
 I'm **Mohammed Abdelrahman**, a passionate **Frontend Developer** focused on building fast, modern, and responsive user interfaces.  
 I specialize in JavaScript technologies, especially React and state management tools, and I continuously work on improving my skills to deliver high-quality web experiences.
