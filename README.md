@@ -16,7 +16,6 @@ I specialize in JavaScript technologies, especially React and state management t
 <a title="Bootstrap"><img src="icons/bootstrap.png" width="40"/></a>
 <a title="ReactJS"><img src="icons/react.png" width="40"/></a>
 <a title="Redux"><img src="icons/redux.png" width="40"/></a>
-<a title="Redux Toolkit"><img src="icons/redux.png" width="40"/></a>
 <a title="Sass"><img src="icons/sass.png" width="40"/></a>
 
 ### **Other Programming Languages**
