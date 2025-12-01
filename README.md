@@ -1,6 +1,6 @@
 # Mohammed Abdelrahman – Frontend Developer
 
-<img src="icons/me.jpg" align="right" width="180"/>
+<img src="icons/me.png" align="right" width="180"/>
 
 Hello!  
 I'm **Mohammed Abdelrahman**, a passionate **Frontend Developer** focused on building fast, modern, and responsive user interfaces.  
