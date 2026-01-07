@@ -61,3 +61,9 @@
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mo-eldahshoury&show_icons=true&theme=dark&hide_border=true" />
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mo-eldahshoury&layout=compact&theme=dark&hide_border=true" />
 </p>
+
+---
+<p align="center">
+<a href="https://linkedin.com/in/mo-eldahshoury" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mo-eldahshoury" /></a>
+<a href="mailto:mo.eldahshoury@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mo.eldahshoury" /></a>
+</p>
