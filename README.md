@@ -8,8 +8,8 @@
         I specialize in JavaScript technologies, especially <b>React</b>, and I'm currently mastering <b>TypeScript</b>.
       </p>
     </td>
-    <td width="25%" valign="center">
-      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100%" style="display:block; border-radius:10px;" />
+    <td width="25%" valign="middle">
+      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100%" style="border-radius:10px;" />
     </td>
   </tr>
 </table>
@@ -19,43 +19,31 @@
 ## 🚀 Tech Stack
 
 ### **Frontend Development**
-<a title="HTML5"><img src="icons/html.png" width="45"/></a>
-<a title="CSS3"><img src="icons/css.png" width="45"/></a>
-<a title="JavaScript"><img src="icons/javascript.png" width="45"/></a>
-<a title="TypeScript"><img src="icons/typescript.png" width="45"/></a>
-<a title="Tailwind CSS"><img src="icons/tailwind.png" width="45"/></a>
-<a title="Bootstrap"><img src="icons/bootstrap.png" width="45"/></a>
-<a title="ReactJS"><img src="icons/react.png" width="45"/></a>
-<a title="Redux"><img src="icons/redux.png" width="45"/></a>
-<a title="Sass"><img src="icons/sass.png" width="45"/></a>
+<img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/html.png" width="45" title="HTML5"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/css.png" width="45" title="CSS3"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/javascript.png" width="45" title="JavaScript"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/typescript.png" width="45" title="TypeScript"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/tailwind.png" width="45" title="Tailwind CSS"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/bootstrap.png" width="45" title="Bootstrap"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/react.png" width="45" title="ReactJS"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/redux.png" width="45" title="Redux"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/sass.png" width="45" title="Sass"/>
 
-### **Other Programming Languages**
-<a title="Python"><img src="icons/python.png" width="45"/></a>
-<a title="C++"><img src="icons/cpp.png" width="45"/></a>
-<a title="C"><img src="icons/c.png" width="45"/></a>
-
----
-
-## 🌱 Currently Learning
-- ⚛️ **Advanced React patterns**
-- 🎨 **Tailwind CSS best practices**
-- 🛡️ **TypeScript for scalable React apps**
-- ⚙️ **Improving state management with Redux Toolkit**
-
+### **Computer Science Fundamentals**
+<img src="https://img.shields.io/badge/Security-Shield-red?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/DSA-Algorithms-blue?style=for-the-badge&logo=gitbook&logoColor=white" /> <img src="https://img.shields.io/badge/Networking-OSI--Model-green?style=for-the-badge&logo=cisco&logoColor=white" />
 ---
 
 ## 🌍 Connect With Me
-<a href="https://linkedin.com/in/mo-eldahshoury">
-  <img src="icons/linkedin.png" width="40"/>
-</a>
-<a href="https://github.com/mo-eldahshoury">
-  <img src="icons/github.png" width="40"/>
-</a>
+<a href="https://linkedin.com/in/mo-eldahshoury"><img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/linkedin.png" width="40"/></a> <a href="https://github.com/mo-eldahshoury"><img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/github.png" width="40"/></a>
 
+---
+## 🌱 Currently Learning
+
+- Advanced React patterns  
+
+- Tailwind CSS best practices  
+
+- TypeScript for scalable React apps  
+
+- Building production-ready UI components  
+
+- Improving state management with Redux Toolkit  
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mo-eldahshoury&show_icons=true&theme=dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-eldahshoury&layout=compact&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mo-eldahshoury&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mo-eldahshoury&layout=compact&theme=dark&hide_border=true" />
 </p>
