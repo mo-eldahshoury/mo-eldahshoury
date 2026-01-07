@@ -19,14 +19,10 @@
 ## 🚀 Tech Stack
 
 ### **Frontend Development**
-<img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/html.png" width="45" title="HTML5"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/css.png" width="45" title="CSS3"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/javascript.png" width="45" title="JavaScript"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/typescript.png" width="45" title="TypeScript"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/tailwind.png" width="45" title="Tailwind CSS"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/bootstrap.png" width="45" title="Bootstrap"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/react.png" width="45" title="ReactJS"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/redux.png" width="45" title="Redux"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/sass.png" width="45" title="Sass"/>
+<img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/html.png" width="45"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/css.png" width="45"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/javascript.png" width="45"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/typescript.png" width="45"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/react.png" width="45"/> <img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/redux.png" width="45"/>
 
 ### **Computer Science Fundamentals**
 <img src="https://img.shields.io/badge/Security-Shield-red?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/DSA-Algorithms-blue?style=for-the-badge&logo=gitbook&logoColor=white" /> <img src="https://img.shields.io/badge/Networking-OSI--Model-green?style=for-the-badge&logo=cisco&logoColor=white" />
----
-
-## 🌍 Connect With Me
-<a href="https://linkedin.com/in/mo-eldahshoury"><img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/linkedin.png" width="40"/></a> <a href="https://github.com/mo-eldahshoury"><img src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/main/icons/github.png" width="40"/></a>
 
 ---
 ## 🌱 Currently Learning
@@ -40,6 +36,11 @@
 - Building production-ready UI components  
 
 - Improving state management with Redux Toolkit  
+---
+---
+## 🐍 My Contribution Snake
+![snake gif](https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 📊 GitHub Stats
