@@ -38,8 +38,16 @@
 - Improving state management with Redux Toolkit  
 ---
 ---
-## 🐍 My Contribution Snake
-![snake gif](https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/output/github-contribution-grid-snake.svg)
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mo-eldahshoury/mo-eldahshoury/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+<hr>
 
 ---
 
