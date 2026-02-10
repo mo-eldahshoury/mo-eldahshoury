@@ -40,7 +40,8 @@
 
 - Building production-ready UI components  
 
-- Improving state management with Redux Toolkit  
+- Improving state management with Redux Toolkit
+  
 ---
 ---
 ## 🐍 My Contributions
