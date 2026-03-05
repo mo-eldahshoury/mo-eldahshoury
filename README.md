@@ -10,7 +10,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&left=true&vCenter=true&width=435&lines=Mohammed+Abdelrahman;Frontend+Developer;Next.js+%26+React+Enthusiast" alt="Typing SVG" />
       <p>
         I'm a passionate <b>Frontend Developer</b> focused on building fast, modern, and responsive user interfaces. 
-        I specialize in JavaScript technologies, currently building production-ready apps with <b>Next.js 15</b> and <b>TypeScript</b>.
+        I specialize in JavaScript technologies, currently building production-ready apps with <b>Next.js</b> and <b>TypeScript</b>.
       </p>
       <p>
         🚀 <b>Check out my Portfolio:</b> <a href="https://mportfolio-web.netlify.app/">mportfolio-web.netlify.app</a>
