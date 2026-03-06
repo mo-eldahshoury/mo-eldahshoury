@@ -46,7 +46,7 @@
 
 ## 🌱 Currently Mastering
 
-- **Full-stack Development** with Next.js 15 & Appwrite.
+- **Full-stack Development** with Next.js & Appwrite.
 - **Advanced TypeScript** for scalable React architectures.
 - **Performance Optimization** and Web Vitals.
 
