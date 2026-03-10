@@ -13,7 +13,7 @@
         I specialize in JavaScript technologies, currently building production-ready apps with <b>Next.js</b> and <b>TypeScript</b>.
       </p>
       <p>
-        🚀 <b>Check out my Portfolio:</b> <a href="https://mportfolio-web.netlify.app/">mportfolio-web.netlify.app</a>
+        🚀 <b>Check out my Portfolio:</b> <a href="https://portfolio-website-delta-five-17.vercel.app/">mportfolio-web.netlify.app</a>
       </p>
     </td>
     <td width="25%" valign="middle">
