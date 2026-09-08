@@ -2,32 +2,30 @@
   <img src="https://komarev.com/ghpvc/?username=mo-eldahshoury&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="mo-eldahshoury" />
 </div>
 
-
-
 <table border="0">
   <tr>
-    <td width="75%" valign="top">
+    <td width="70%" valign="top">
       <h1>Hi there, I'm Mohamed 👋</h1>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&left=true&vCenter=true&width=435&lines=Mohammed+Abdelrahman;Frontend+Developer;Next.js+%26+React+Enthusiast" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&left=true&vCenter=true&width=450&lines=Mohammed+Abdelrahman;Frontend+Developer;Next.js+%26+React+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
       <p>
-        I'm a passionate <b>Frontend Developer</b> focused on building fast, modern, and responsive user interfaces. 
-        I specialize in JavaScript technologies, currently building production-ready apps with <b>Next.js</b> and <b>TypeScript</b>.
+        I'm a passionate <b>Frontend Developer</b> focused on building fast, modern, and high-performance user interfaces. 
+        I specialize in modern JavaScript technologies, currently crafting production-ready applications with <b>Next.js</b> and <b>TypeScript</b>.
       </p>
       <p>
-        🚀 <b>Check out my Portfolio:</b> <a href="https://portfolio-website-delta-five-17.vercel.app/">portfolio</a>
+        🚀 <b>Check out my Portfolio:</b> <a href="https://portfolio-website-delta-five-17.vercel.app/">Live Portfolio</a>
       </p>
     </td>
-    <td width="25%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100%" style="border-radius:10px;" />
+    <td width="30%" valign="middle" align="center">
+      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="90%" style="border-radius:12px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack & Ecosystem
 
-### **Frontend Development**
+### **Frontend & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -40,20 +38,26 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
-### **Computer Science Fundamentals**
-<img src="https://img.shields.io/badge/Security-Shield-red?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/DSA-Algorithms-blue?style=for-the-badge&logo=gitbook&logoColor=white" /> <img src="https://img.shields.io/badge/Networking-OSI--Model-green?style=for-the-badge&logo=cisco&logoColor=white" />
+### **Core & Engineering**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_Api-005571?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-Algorithms-blue?style=for-the-badge&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-OSI--Model-green?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 
 ---
 
-## 🌱 Currently Mastering
+## 🌱 Currently Focused On
 
-- **Full-stack Development** with Next.js & Appwrite.
-- **Advanced TypeScript** for scalable React architectures.
-- **Performance Optimization** and Web Vitals.
+- 🏗️ **Full-stack Integration:** Expanding capabilities with Next.js & Appwrite.
+- 📐 **Architecture:** Writing clean, scalable React code with advanced TypeScript patterns.
+- ⚡ **Performance:** Mastering web vitals, optimization, and smooth user experiences.
 
 ---
 
-## 🐍 My Contributions
+## 🐍 Activity Grid (GitHub Snake)
 
 <div align="center">
   <picture>
@@ -65,7 +69,9 @@
 
 ---
 
+## 📬 Let's Connect
+
 <p align="center">
-<a href="https://linkedin.com/in/mo-eldahshoury" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mo-eldahshoury" /></a>
-<a href="mailto:mo.eldahshoury@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mo.eldahshoury" /></a>
+  <a href="https://linkedin.com/in/mo-eldahshoury" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mo.eldahshoury@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
