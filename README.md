@@ -57,7 +57,7 @@
 
 ---
 
-## 🐍 Activity Grid (GitHub Snake)
+## 🐍 Activity Grid
 
 <div align="center">
   <picture>
